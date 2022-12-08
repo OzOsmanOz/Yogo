@@ -5,6 +5,7 @@ https://user-images.githubusercontent.com/107813778/199689186-e43f1127-5019-4e71
 
 ## Used technologies
 
-![html5](https://user-images.githubusercontent.com/107813778/199715531-4af5617f-5bc4-4883-b04f-f3b30354d7d5.png)
-![css3](https://user-images.githubusercontent.com/107813778/199715534-669509c3-d776-43ae-9dd8-105ec1a0089f.png)
-![bootstrap](https://user-images.githubusercontent.com/107813778/199715844-fa6805e1-9575-46a2-80ed-2bbcc3bad649.png)
+
+![htmlicon](https://user-images.githubusercontent.com/107813778/206440181-9f9a4933-aeef-40aa-ae30-9158d32e4548.png)
+![cssicon](https://user-images.githubusercontent.com/107813778/206440192-17a79f7d-f908-4f44-89da-3c123bec2ebd.png)
+![bootstrapicon](https://user-images.githubusercontent.com/107813778/206440231-214b907b-695a-42c9-8246-4aca3e6c1041.png)
